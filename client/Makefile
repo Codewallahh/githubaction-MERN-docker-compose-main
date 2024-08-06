@@ -1,7 +1,7 @@
 
 tag:=v1.0.${TAG}
 images_name:=ci-cd-mern-dc-frontend
-repository:=bjnandi
+repository:=gaurav0408
 
 all: build push
 
